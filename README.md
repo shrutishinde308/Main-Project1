@@ -39,8 +39,6 @@ The College Fest Management System is a beginner-friendly academic project that 
 
 ## 📸 Project Screenshots
 
-## 📸 Project Screenshots
-
 ### Home Page
 ![Home Page](img/home.png)
 
