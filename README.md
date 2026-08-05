@@ -32,6 +32,17 @@ The College Fest Management System is a simple web-based application developed u
 ## Conclusion
 The College Fest Management System is a beginner-friendly academic project that demonstrates the fundamentals of web development using HTML. It provides an organized platform to manage and display college fest information. The project can be further enhanced by adding CSS, JavaScript, and database connectivity to create a complete dynamic web application.
 
+## 📸 Project Screenshots
+
+### Home Page
+![Home Page](Home.png)
+
+### Gallery Page
+![Gallery Page](Gallary.png)
+
+### Gallery Page 2
+![Gallery Page 2](Gallary2.png)
+
 <a href="https://github.com/shrutishinde308/Main-Project1/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=shrutishinde308/Main-Project1" />
 </a>
