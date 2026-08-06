@@ -1,70 +1,54 @@
+## Academic Project 
+**Project Title:** College Fest Management System
 
-# 🎉 College Fest Management System
+# College Fest Management System
 
-## 📖 Project Overview
-The College Fest Management System is a web-based project developed using HTML. It helps students view fest events, check event details, register for competitions, view schedules, browse the gallery, and contact the organizers.
+<p align="center">
+  <img src="img/logo.png" alt="Project Logo" width="150">
+</p>
 
-## ✨ Features
+
+## Project Overview
+The College Fest Management System is a simple web-based application developed using HTML5. It is designed to provide all the essential information about a college festival in one place. Students can easily explore different events, view event details, register for competitions, check schedules, browse the gallery, read announcements, and contact the organizing committee. This project demonstrates the basic concepts of web page development using only HTML.
+
+## Objectives
+- Provide complete information about the college fest.
+- Display event details and schedules.
+- Allow students to register for events.
+- Share important announcements.
+- Help students contact the organizing team.
+- Demonstrate a simple HTML-based website.
+
+## Features
 - Home Page
 - About Page
 - Events Page
-- Event Details
+- Event Details Page
 - Registration Form
-- Schedule
-- Gallery
-- Announcements
+- Schedule Page
+- Gallery Page
+- Announcements Page
 - Contact Page
-- Admin Login
+- Admin Login Page
 
-## 🛠️ Technologies Used
+## Technologies Used
 - HTML5
 
-## 📂 Project Structure
-```
-Main-Project1/
-│── index.html
-│── README.md
-│── img/
-│── pages/
-│   ├── about.html
-│   ├── event.html
-│   ├── eventdetails.html
-│   ├── registration.html
-│   ├── schedule.html
-│   ├── gallery.html
-│   ├── announcement.html
-│   ├── contact.html
-│   └── adminlogin.html
-```
+## Conclusion
+The College Fest Management System is a beginner-friendly academic project that demonstrates the fundamentals of web development using HTML. It provides an organized platform to manage and display college fest information. The project can be further enhanced by adding CSS, JavaScript, and database connectivity to create a complete dynamic web application.
 
-## 🚀 How to Run
-1. Download or clone the project.
-2. Open the project folder.
-3. Open `index.html` in any web browser.
+## 📸 Project Screenshots
 
-## 📸 Project Modules
-- Home
-- About
-- Events
-- Event Details
-- Registration
-- Schedule
-- Gallery
-- Announcements
-- Contact
-- Admin Login
+### Home Page
+![Home Page](img/home.png)
 
-## 🎯 Future Enhancements
-- Add CSS for better design.
-- Add JavaScript for interactivity.
-- Connect with a database.
-- Add online event registration.
-- Add login authentication.
+### Gallery Page
+![Gallery Page](img/gallery.png)
 
-## 📅 Academic Project
- College Fest Management System
+### Gallery Page 2
+![Gallery Page 2](img/gallery2.png)
 
- <a href="https://github.com/shrutishinde308/Main-Project1/graphs/contributors">
+<a href="https://github.com/shrutishinde308/Main-Project1/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=shrutishinde308/Main-Project1" />
 </a>
 
